@@ -1,0 +1,7 @@
+not id or nb
+id
+id
+nb
+not id or nb
+nb
+not id or nb
